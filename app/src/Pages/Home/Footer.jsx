@@ -89,7 +89,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/david_seu_21/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -112,7 +112,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/david-seu-b90700254/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"

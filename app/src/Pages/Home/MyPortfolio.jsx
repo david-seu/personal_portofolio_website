@@ -28,7 +28,7 @@ export default function MyPortfolio(){
                         fill="currentColor"
                     />
                     </svg>
-                    Visit My GitHub
+                    <a href="https://github.com/david-seu">Visit My Github</a>
                     </button>
                 </div>
             </div>
@@ -46,7 +46,7 @@ export default function MyPortfolio(){
                                 <p className="text-md">{item.description}</p>
                             </div>
                             <p className="text-sm portfolio--link">
-                                <a href={item.link} >Link</a>
+                                <a href={item.link} >Check It Out</a>
                                 <svg
                                 xmlns="http://www.w3.org/2000/svg"
                                 width="16"

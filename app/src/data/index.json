@@ -2,50 +2,44 @@
     "skills": [
         {
             "id": 1,
-            "src": "./img/product-chain-1.png",
+            "src": "./img/feather-pen-2.png",
             "title": "Front-End",
-            "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius eim in eros elementum tristique"
+            "description": "JavaScript, CSS, HTML, React"
         },
         {
             "id": 2,
             "src": "./img/tag-1.png",
             "title": "Back-End",
-            "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius eim in eros elementum tristique"
+            "description": "C/C++, Java, Python, SQL, Java Spring Boot, Qt, Flask "
         },
         {
             "id": 3,
-            "src": "./img/feather-pen-2.png",
-            "title": "UI/UX Design",
-            "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius eim in eros elementum tristique"
-        },
-        {
-            "id": 4,
-            "src": "./img/feather-pen-1.png",
-            "title": "Front-End",
-            "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius eim in eros elementum tristique"
+            "src": "./img/product-chain-1.png",
+            "title": "AI & Machine Learning",
+            "description": "Python, Tensorflow, Pandas, Numpy, Scikit, PIL  "
         }
     ],
     "portfolio": [
         {
             "id": 1,
-            "src": "./img/placeholder-image.png",
+            "src": "./img/toy_language.png",
             "title": "Toy Language Interpreter",
-            "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius eim in eros elementum tristique",
+            "description": "Programming Language: Java, Techonologies: JavaFX",
             "link": "https://github.com/david-seu/map_interpreter_gui"
         },
         {
             "id": 2,
             "src": "./img/placeholder-image-1.png",
-            "title": "App Dashboard",
-            "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius eim in eros elementum tristique",
-            "link": "View In GitHub"
+            "title": "Multi-Windows Courier App",
+            "description": "Programming Language: C++, Techonologies: Qt Framework",
+            "link": "https://github.com/david-seu/DeliveryService"
         },
         {
             "id": 3,
-            "src": "./img/placeholder-image-2.png",
-            "title": "East Rent",
-            "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius eim in eros elementum tristique",
-            "link": "View In GitHub"
+            "src": "./img/ai_model.png",
+            "title": "AI Model for Voice Recognition",
+            "description": "Programming Language: Python, Libraries: tensorflow, sci-kit",
+            "link": "https://github.com/david-seu/ML_Veoneer"
         }
     ]
 }
