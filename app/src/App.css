@@ -223,7 +223,7 @@ h3{
   display: flex;
   align-items: flex-start;
   gap: 42.667px;
-  text-decoration: none;
+  text-decoration: none;  
 }
 
 .navbar--items > ul > li > a {
